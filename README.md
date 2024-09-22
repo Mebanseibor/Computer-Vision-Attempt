@@ -14,8 +14,11 @@ This is a personal project to try my hands on computer vision
 
 
 ## <p id='content-links'>Links🔗</p>
+- ### 📒[Personal Notes][directorylink-notes]
 
 
 
 
 <!-- weblinks -->
+
+[directorylink-notes]: ./Notes/Introduction.md
